@@ -6,7 +6,7 @@ Grupo de ANAPRODEGUAS no CodeVerse da DevSacanagem adquirida.
 
 ANAPRODEGUA = ANALISTA + PROGRAMADOR + FI DUMA ÉGUA
 
-* **Website**: [DevComputaria](https://www.instagram.com/devcomputaria/)
+* **Instagran**: [DevComputaria](https://www.instagram.com/devcomputaria/)
 * **Twitter** 🐦: [DevComputaria](https://twitter.com/DevComputaria)
 * **Discussions** 📣: [DevComputaria GitHub Discussions](https://github.com/DevComputaria/Forum/discussions)
 * **Chat** 💬: [DevComputaria on Discord](https://discord.gg/J99tmA83)
