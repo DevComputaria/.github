@@ -1,5 +1,6 @@
 ## DevComputaria
 
+![DevComputaria Logo](/profile/78062339.jpg)
 
 Grupo de ANAPRODEGUAS no CodeVerse da DevSacanagem adquirida.
 
