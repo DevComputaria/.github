@@ -13,5 +13,6 @@ ANAPRODEGUA = ANALISTA + PROGRAMADOR + FI DUMA ÉGUA
 * **Telegram** ✔️: [DevComputaria on Telegram](https://t.me/joinchat/PlGV0sMX4LpjY2Ix)
 * **Medium** : [DevComputaria on Medium](https://medium.com/@devcomputaria)
 * **Dev.to** : [DevComputaria on Dev.to](https://dev.to/devcomputariagit)
+* **Reddit** : [DevComputaria on Reddit](https://www.reddit.com/user/DevComputaria)
 
 
